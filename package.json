@@ -16,11 +16,13 @@
     "@radix-ui/react-toast": "^1.2.1",
     "@stream-io/node-sdk": "^0.3.0",
     "@stream-io/video-react-sdk": "^1.2.20",
+    "@types/react-datepicker": "^7.0.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "lucide-react": "^0.424.0",
     "next": "14.2.5",
     "react": "^18",
+    "react-datepicker": "^7.3.0",
     "react-dom": "^18",
     "tailwind-merge": "^2.4.0",
     "tailwindcss-animate": "^1.0.7"
