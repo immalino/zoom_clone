@@ -14,7 +14,7 @@ const MeetingTypeList = () => {
   const router = useRouter();
   const [meetingState, setMeetingState] = useState<
     "isScheduleMeeting" | "isJoiningMeeting" | "isInstantMeeting" | undefined
-  >();
+  >(undefined);
   const { user } = useUser();
   const client = useStreamVideoClient();
   const [values, setValues] = useState({
